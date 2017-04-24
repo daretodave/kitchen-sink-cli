@@ -21,6 +21,7 @@
     "clear": "0.0.1",
     "figlet": "^1.1.2",
     "fs-promise": "^2.0.2",
+    "highlight.js": "^9.11.0",
     "inquirer": "^1.1.0",
     "markdown-it": "^8.3.1",
     "minimist": "^1.2.0",
