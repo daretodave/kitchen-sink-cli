@@ -22,9 +22,12 @@
     "figlet": "^1.1.2",
     "fs-promise": "^2.0.2",
     "highlight.js": "^9.11.0",
+    "image-size": "^0.5.1",
     "inquirer": "^1.1.0",
     "markdown-it": "^8.3.1",
+    "markdown-it-imsize": "^2.0.1",
     "minimist": "^1.2.0",
+    "mmmagic": "^0.4.5",
     "node-watch": "^0.5.2",
     "optimist": "^0.6.1"
   }
